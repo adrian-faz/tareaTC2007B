@@ -2,3 +2,5 @@
 Este es un repositorio para las actividades de mi bloque TC2007B
 Adrián Emmanuel Faz Mercado
 A01570770
+
+Actividad 1: Primera Aplicación en Xcode
